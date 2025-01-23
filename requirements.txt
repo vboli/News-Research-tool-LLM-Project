@@ -1,0 +1,11 @@
+streamlit               # For creating the interactive web app
+langchain               # Core library for LLM workflows
+huggingface-hub         # To use Hugging Face models and APIs
+python-dotenv           # For loading environment variables
+faiss-cpu               # For managing vector embeddings and similarity searches
+unstructured            # For loading and processing unstructured URL data
+pickle-mixin            # For handling pickle files (sometimes needed explicitly)
+python-magic-bin
+huggingface_hub
+sentence-transformers
+
