@@ -5,12 +5,12 @@ QueryBot is a user-friendly news research tool designed for effortless informati
 
 # App Screenshot
 
-![App Screenshot](https://github.com/user-attachments/assets/1de1432e-1d1d-444d-97ba-224253461b63)
+![App Screenshot](https://github.com/user-attachments/assets/34d3fc4f-c3c5-4641-b15c-620c7b05206d)
 
 
 # Architecture flow diagram
 
-![App Screenshot](https://github.com/user-attachments/assets/a2d82d39-1410-457e-bfdf-52dc3bf508dd)
+![App Screenshot](https://github.com/user-attachments/assets/d45e3b56-7c1d-44d1-a057-910aa5573387)
 ## Features
 
 - Load URLs or upload text files containing URLs to fetch article content.
